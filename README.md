@@ -1,10 +1,10 @@
 ## Hi, I'm Adan Riasat 👋
 
-🎓 I'm currently studying Computer Science at Édouard-Montpetit 
-🧠 Learning C#, C++, web development, mobile application, and software design principles
-🔭 Currently working on an educational website designed for secondary school students.
-📫 How to reach me: 2ariasat@gmail.com  
-💼 Open to internships or collaborative projects
+- 🎓 I'm currently studying Computer Science at Édouard-Montpetit 
+- 🧠 Learning C#, C++, web development, mobile application, and software design principles
+- 🔭 Currently working on an educational website designed for secondary school students.
+- 📫 How to reach me: 2ariasat@gmail.com  
+- 💼 Open to internships or collaborative projects
 <!--
 **AdanRiasat/AdanRiasat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
